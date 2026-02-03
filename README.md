@@ -1,216 +1,86 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<!--
+README profil GitHub — Mickaël Lherminez
+À personnaliser :
+- Remplace USERNAME partout
+- Ajoute/retire les repos publics
+- Mets tes liens (portfolio, LinkedIn, mail)
+-->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+# Salut, moi c’est Mickaël <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand">
 
-### 📫 Like to meet me?
+**Tech Lead JavaScript / Front-end** (Vue.js + Vuetify, Angular, React) avec pratique **Full Stack Node.js**.  
+J’aide des équipes à livrer des **applications web métiers** robustes : qualité, DX, performance, et **delivery** (CI/CD, standards, mentoring).
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+<p align="left">
+  <a href="https://www.linkedin.com/in/mickaellherminez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://stackoverflow.com/users/USER_ID/USERNAME"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=MickaelLherminez.365-daynight-vscode-theme-ext"><img alt="VS Code Marketplace" src="https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?logo=microsoft&logoColor=white&style=for-the-badge"></a>
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-  name: "Anmol Pratap Singh",
-  pronouns: ["he", "him"],
-  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
-  askMeAbout: [
-    "web development",
-    "mobile app development",
-    "cloud architecture",
-    "generative AI",
-    "agentic systems",
-    "SaaS products",
-    "system design"
-  ],
-
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
-      uiLibraries: [
-        "Material UI",
-        "Ant Design",
-        "Chakra UI",
-        "shadcn/ui"
-      ]
-    },
-
-    backend: {
-      node: ["Node.js", "Express", "NestJS"],
-      python: ["Flask"]
-    },
-
-    mobile: {
-      crossPlatform: ["Flutter"]
-    },
-
-    devOps: {
-      tools: ["Docker", "GitHub Actions", "Nginx"],
-      practices: ["CI/CD", "Infrastructure as Code"]
-    },
-
-    cloud: {
-      aws: [
-        "EC2",
-        "S3",
-        "RDS",
-        "Lambda",
-        "Fargate",
-        "CloudWatch"
-      ],
-      gcp: [
-        "Compute Engine",
-        "Cloud Run",
-        "Cloud Functions",
-        "Cloud Storage",
-        "Firestore",
-        "BigQuery"
-      ]
-    },
-
-    databases: {
-      relational: ["PostgreSQL"],
-      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
-      inMemory: ["Redis"]
-    },
-
-    realtimeAndAPIs: [
-      "REST APIs",
-      "WebSockets",
-      "Socket.IO"
-    ],
-
-    ai: {
-      generativeAI: [
-        "LLM integration",
-        "Prompt engineering",
-        "Vector databases",
-        "AI agents",
-        "Workflow automation"
-      ],
-      architectures: [
-        "agentic architecture",
-        "tool-augmented agents",
-        "multi-agent systems"
-      ],
-      models: ["OpenAI", "Gemini", "Llama"]
-    }
-  },
-
-  architecture: {
-    frontend: ["SPA", "SSR"],
-    backend: ["monolith", "microservices", "serverless"],
-    cloudPatterns: [
-      "event-driven",
-      "agentic systems",
-      "scalable SaaS"
-    ],
-    data: ["relational", "nosql", "in-memory"]
-  },
-currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
-funFact: "Most bugs disappear after a coffee and a clean commit history"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</p>
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C130%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-665-blue?style=flat)
+## 🧠 Ce que je fais (et ce qu’on me confie souvent)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.41%20million%20lines%20of%20code-blue?style=flat)
+- **Architecture front** pour apps data-driven : composants, state, routing, conventions, design system
+- **Qualité & DX** : standards, revues de code, tooling, TypeScript, tests (unit/E2E), CI
+- **Intégration API** : contrats REST, erreurs, pagination, auth/permissions, perf réseau, observabilité
+- **Leadership** : mentoring, onboarding, structuration d’équipe, delivery en Agile
 
-**🐱 My GitHub Data** 
+---
 
-> 📦 358.3 kB Used in GitHub's Storage 
- > 
-> 🏆 111 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 32 Private Repositories 
- > 
-**I'm an Early 🐤** 
+## 🧰 Stack (au quotidien)
 
-```text
-🌞 Morning                1191 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-🌆 Daytime                2785 commits        █████████░░░░░░░░░░░░░░░░   35.10 % 
-🌃 Evening                2539 commits        ████████░░░░░░░░░░░░░░░░░   32.00 % 
-🌙 Night                  1420 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-```
-📅 **I'm Most Productive on Sunday** 
+**Front** : Vue.js (2/3), Vuetify, TypeScript, Angular/AngularJS, React  
+**Back** : Node.js, Express, API REST  
+**CI/CD & qualité** : GitLab CI/CD, pipelines, linting, tests  
+**Cloud / Plateforme (exp. terrain)** : **GCP** (Cloud Run, Cloud Storage, BigQuery, Pub/Sub, Secret Manager, Cloud Armor), **Firebase** (auth)  
+**Sécurité** : IAM, secrets, scopes/permissions
 
-```text
-Monday                   940 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Tuesday                  1135 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Wednesday                1120 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Thursday                 958 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Friday                   853 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Saturday                 1276 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Sunday                   1653 commits        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-```
+---
 
+## 🚀 Projets terrain (sélection)
 
-📊 **This Week I Spent My Time On** 
+> NB : les projets “client” sont souvent privés. Je peux publier des *case studies* anonymisées si besoin.
 
-```text
-🕑︎ Time Zone: Asia/Dubai
+### 1) Migration plateforme vers **GCP** (convergence **ARI → ARF**) — *Full Stack*
+- **Contexte** : migration d’une stack Azure/Gravity vers **full GCP**, auth long terme via **Firebase**
+- **Impact** : continuité de service + prod stable, standardisation des configs (IaC), sécurisation (IAM/Armor/Secrets)
+- **Stack** : Vue.js 3, Node.js/Express, GCP (Cloud Run/Storage/BigQuery/PubSub…), GitLab CI/CD, IaC  
+➡️ Repo (si tu en as un public) : https://github.com/USERNAME/nom-du-repo
 
-💬 Programming Languages: 
-TypeScript               12 hrs 4 mins       █████████████████████░░░░   84.51 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+### 2) Refonte UI v2 — Référentiel “Sites” (Vue + Vuetify)
+- **Contexte** : refonte d’une UI métier (parcours + maintenabilité), accompagnement de juniors
+- **Impact** : accélération delivery + réduction du risque de régression via structuration et bonnes pratiques
+- **Stack** : Vue.js, Vuetify, API REST  
+➡️ Repo (ou case study) : https://github.com/USERNAME/nom-du-repo
 
-🔥 Editors: 
-WebStorm                 13 hrs 46 mins      ████████████████████████░   96.39 % 
-DataGrip                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+### 3) LeanMorning — Dashboard temps réel / Big Data
+- **Contexte** : visualisation & monitoring orientés data (temps réel / pipeline)
+- **Impact** : visibilité opérationnelle + meilleures décisions (observabilité fonctionnelle)
+- **Stack** : Kafka, WebSocket, Highcharts (selon contexte), intégration back/front  
+➡️ Repo (ou démo) : https://github.com/USERNAME/nom-du-repo
 
-💻 Operating System: 
-Mac                      14 hrs 16 mins      █████████████████████████   100.00 % 
-```
+---
 
-**I Mostly Code in JavaScript** 
+## 🔭 En ce moment
 
-```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   36.26 % 
-TypeScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
+- Je consolide un **socle “prod-ready”** pour apps JS (conventions, qualité, CI, observabilité)
+- Je formalise des **templates** (Vue 3 + Vuetify / Node API) + checklists “mission-ready”
+- (Optionnel) Je prépare du contenu pour la communauté JS (workshops, mentoring, bonnes pratiques)
 
+---
 
+## 🤝 Open-source / Communauté (optionnel)
 
+- Talks / ateliers : *(à compléter)*
+- Contributions : *(à compléter)*
+- Mentoring : standards, onboarding, revues de code, montée en compétences
 
- Last Updated on 03/02/2026 00:52:24 UTC
-<!--END_SECTION:waka-->
+---
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+## 📫 Contact
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+- LinkedIn : https://www.linkedin.com/in/mickaellherminez/
+- Portfolio : https://mickaellherminez.net
