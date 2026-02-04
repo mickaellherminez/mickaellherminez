@@ -47,20 +47,17 @@ J’aide des équipes à livrer des **applications web métiers** robustes : qua
 ### 1) Migration plateforme vers **GCP** (convergence **ARI → ARF**) — *Full Stack*
 - **Contexte** : migration d’une stack Azure/Gravity vers **full GCP**, auth long terme via **Firebase**
 - **Impact** : continuité de service + prod stable, standardisation des configs (IaC), sécurisation (IAM/Armor/Secrets)
-- **Stack** : Vue.js 3, Node.js/Express, GCP (Cloud Run/Storage/BigQuery/PubSub…), GitLab CI/CD, IaC  
-➡️ Repo (si tu en as un public) : https://github.com/USERNAME/nom-du-repo
+- **Stack** : Vue.js 3, Node.js/Express, GCP (Cloud Run/Storage/BigQuery/PubSub…), GitLab CI/CD, IaC
 
 ### 2) Refonte UI v2 — Référentiel “Sites” (Vue + Vuetify)
 - **Contexte** : refonte d’une UI métier (parcours + maintenabilité), accompagnement de juniors
 - **Impact** : accélération delivery + réduction du risque de régression via structuration et bonnes pratiques
-- **Stack** : Vue.js, Vuetify, API REST  
-➡️ Repo (ou case study) : https://github.com/USERNAME/nom-du-repo
+- **Stack** : Vue.js, Vuetify, API REST
 
 ### 3) LeanMorning — Dashboard temps réel / Big Data
 - **Contexte** : visualisation & monitoring orientés data (temps réel / pipeline)
 - **Impact** : visibilité opérationnelle + meilleures décisions (observabilité fonctionnelle)
-- **Stack** : Kafka, WebSocket, Highcharts (selon contexte), intégration back/front  
-➡️ Repo (ou démo) : https://github.com/USERNAME/nom-du-repo
+- **Stack** : Kafka, WebSocket, Highcharts (selon contexte), intégration back/front
 
 ---
 
