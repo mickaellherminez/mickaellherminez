@@ -13,7 +13,7 @@ J’aide des équipes à livrer des **applications web métiers** robustes : qua
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mickaellherminez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="https://stackoverflow.com/users/USER_ID/USERNAME"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge"></a>
+  <a href="https://stackoverflow.com/users/10165426/mickael-lherminez"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge"></a>
   <a href="https://marketplace.visualstudio.com/items?itemName=MickaelLherminez.365-daynight-vscode-theme-ext"><img alt="VS Code Marketplace" src="https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?logo=microsoft&logoColor=white&style=for-the-badge"></a>
 
 
