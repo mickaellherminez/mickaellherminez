@@ -65,14 +65,12 @@ J’aide des équipes à livrer des **applications web métiers** robustes : qua
 
 - Je consolide un **socle “prod-ready”** pour apps JS (conventions, qualité, CI, observabilité)
 - Je formalise des **templates** (Vue 3 + Vuetify / Node API) + checklists “mission-ready”
-- (Optionnel) Je prépare du contenu pour la communauté JS (workshops, mentoring, bonnes pratiques)
+- Je prépare du contenu pour la communauté JS (workshops, mentoring, bonnes pratiques)
 
 ---
 
 ## 🤝 Open-source / Communauté (optionnel)
 
-- Talks / ateliers : *(à compléter)*
-- Contributions : *(à compléter)*
 - Mentoring : standards, onboarding, revues de code, montée en compétences
 
 ---
