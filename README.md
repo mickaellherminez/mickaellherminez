@@ -83,6 +83,16 @@ I help teams ship robust **business web applications**: quality, DX, performance
 
 ---
 
+## 🌙 Side projects
+
+### TrinhLuna — Vietnamese solar & lunar calendar · [website](https://trinhluna.mickaellherminez.net/en/)
+
+- Mobile app to keep track of Vietnamese family dates: solar and lunar calendar, family events, reminders and traditions
+- **In beta, looking for testers:** [request access](https://trinhluna.mickaellherminez.net/en/#beta)
+- **Stack**: React Native (Expo); landing page in React + Vite, pre-rendered, in French, English and Vietnamese, with no trackers or cookies
+
+---
+
 ## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/mickaellherminez](https://www.linkedin.com/in/mickaellherminez/)
